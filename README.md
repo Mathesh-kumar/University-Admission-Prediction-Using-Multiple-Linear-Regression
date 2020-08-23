@@ -6,4 +6,4 @@ What new things you can learn here?
   2. How to implement Decision Tree Regressor.
   3. How to implement Random Forest.
   4. How to implement Neural Network.
-  5. Some data preprocessing & data visualizing techniques.
+  5. Some data preprocessing & data visualization techniques.
